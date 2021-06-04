@@ -13,6 +13,10 @@
   "attributes": {
     "comment": {
       "type": "richtext"
+    },
+    "comments": {
+      "via": "article",
+      "model": "articles"
     }
   }
 }
