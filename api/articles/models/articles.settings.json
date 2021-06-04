@@ -36,6 +36,11 @@
     "article": {
       "collection": "comments",
       "via": "comments"
+    },
+    "user": {
+      "plugin": "users-permissions",
+      "model": "user",
+      "via": "articles"
     }
   }
 }
